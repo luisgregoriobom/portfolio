@@ -71,6 +71,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#position{
+	float: right;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
